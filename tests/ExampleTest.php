@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Spatie\ArdinUnitConversion\Tests;
 
 use PHPUnit\Framework\TestCase;
 
